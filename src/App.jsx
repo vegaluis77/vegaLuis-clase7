@@ -4,7 +4,7 @@ import { Articulo } from './components/articulos';
 function App() {
 
   const Imagen = {
-    ZAPATILLA_AZUL: ".\\src\\assets\\zapatilla.jpg",
+    ZAPATILLA_AZUL: "\\public\\zapatilla.jpg",
     ZAPATILLA_BLANCA: ".\\src\\assets\\zapa2.jpg",
   };
 
