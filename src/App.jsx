@@ -14,7 +14,7 @@ function App() {
       <h1>PRODUCTOS</h1>
       <section>
         <Articulo
-          imagen={Imagen.ZAPATILLA_AZUL}
+          imagen={".\src\assets\zapatilla.jpg"}
           nombre='Zapatillas'
           descripcion="Zapatillas adidas Blue"
           precio={45000}
