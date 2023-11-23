@@ -14,7 +14,7 @@ function App() {
       <h1>PRODUCTOS</h1>
       <section>
         <Articulo
-          imagen=".\src\assets\zapatillaAzul.jpg"
+          imagen=".\assets\imagenes\zapatillaAzul.jpg"
           nombre="Zapatillas"
           descripcion="Zapatillas adidas Blue"
           precio="45000"
