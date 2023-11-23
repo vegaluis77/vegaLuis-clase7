@@ -14,12 +14,13 @@ function App() {
       <h1>PRODUCTOS</h1>
       <section>
         <Articulo
-          imagen={"\src\assets\zapatilla.jpg"}
-          nombre='Zapatillas'
+          imagen="\src\assets\zapatilla.jpg"
+          nombre="Zapatillas"
           descripcion="Zapatillas adidas Blue"
           precio={45000}
           sku={3543}
-          disponible={30}/>
+          disponible={30}
+        />
       </section>
     </>
   );
