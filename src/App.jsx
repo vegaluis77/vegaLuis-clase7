@@ -4,7 +4,8 @@ import { Articulo } from './components/articulos';
 function App() {
 
   const Imagen = {
-    ZAPATILLA_AZUL: ".\\public\\zapatilla.jpg",
+    ZAPATILLA_AZUL:
+      "https://startling-fox-09706d.netlify.app/public/zapatilla.jpg ",
     ZAPATILLA_BLANCA: ".\\src\\assets\\zapa2.jpg",
   };
 
