@@ -1,5 +1,5 @@
 import './App.css'
-import zapas from './assets/imagenes/zapatillaAzul'
+import zapas from './assets/imagenes/zapatillaAzul.jpg'
 import { Articulo } from './components/articulos';
 
 function App() {
