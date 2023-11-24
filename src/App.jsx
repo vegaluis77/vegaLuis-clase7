@@ -1,4 +1,5 @@
 import './App.css'
+import zapas from './assets/imagenes/zapatillaAzul'
 import { Articulo } from './components/articulos';
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
       <h1>PRODUCTOS</h1>
       <section>
         <Articulo
-          imagen=".\assets\imagenes\zapatillaAzul.jpg"
+          imagen={zapas}
           nombre="Zapatillas"
           descripcion="Zapatillas adidas Blue"
           precio="45000"
